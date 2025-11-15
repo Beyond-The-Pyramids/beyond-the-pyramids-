@@ -1,68 +1,67 @@
-🚀 مشروع Beyond the Pyramids
-تصميم هوية بصرية لشركة Kemet Journeys
+"Beyond the Pyramids" Project
+Visual Identity Design for Kemet Journeys
 
-الفكرة الأساسية للمشروع هي تصميم هوية بصرية كاملة لشركة سياحة اسمها "Kemet Journeys".
-الشركة دي هدفها تغيير الصورة النمطية عن مصر (الأهرامات والمعابد) وتوجيه السياح الأجانب لاستكشاف الأماكن والكنوز المخفية اللي أغلب السياح ميعرفوهاش.
-
----
-
-💡 فكرة المشروع (Project Idea)
-مشروع "Beyond the Pyramids" (ما وراء الأهرامات) هو الاسم الكودى لتصميم الهوية الكاملة لبراند "Kemet Journeys". الشركة دي بتقدم تجربة سياحية فريدة بتسمح للسياح بالانغماس في الثقافة المصرية الحقيقية وزيارة أماكن غير تقليدية، بعيدًا عن المسارات السياحية المعروفة.
+The core idea of this project is to design a complete visual identity for "Kemet Journeys," a tourism company. The company aims to change the stereotypical image of Egypt (pyramids and temples) and guide foreign tourists to explore hidden gems and places most tourists don't know about.
 
 ---
 
-👥 أعضاء الفريق (Team Members)
-محمد أشرف
-ناردين هاني
-عبدالرحمن أحمد
-حنين هاني
+Project Idea
+"Beyond the Pyramids" is the project name for the complete identity design of the "Kemet Journeys" brand. This company offers a unique tourism experience that allows tourists to immerse themselves in the real Egyptian culture and visit unconventional places, far from the traditional tourist tracks.
 
 ---
 
-🗺️ خطة العمل (Work Plan)
-
-1. البحث وتأسيس الهوية (Research & Identity Foundation)
-تحديد مفهوم "Kemet Journeys" وفكرة "Beyond the Pyramids".
-تصميم اللوجو الأساسي (Logo Design).
-بناء دليل الهوية البصرية (Brand Guideline) لتحديد الألوان والخطوط وأسلوب التصميم.
-
-2. تطبيقات الهوية المكتبية (Brand Collateral)
-تصميم البيزنس كارد (Business Card).
-تصميم المظروف والليترهيد (Envelope & Letterhead).
-تصميم النوت بوك والـ Compliment Slip (Notebook & Compliment Slip).
-
-3. المواد التسويقية والترويجية (Marketing & Promotional Materials)
-تصميم المطبوعات التعريفية زي البروشور والفلاير (Brochure & Flyer).
-تصميم بوستات السوشيال ميديا الخاصة بالأماكن (Social Media Posters).
-
-4. العرض النهائي والمحاكاة (Final Presentation & Mockups)
-تجميع كل التصميمات وعرضها في صور واقعية (Mockups).
-تجهيز العرض التقديمي النهائي (Final Presentation) لشرح المشروع.
+Team Members
+Mohamed Ashraf
+Nardeen Hani
+Abdelrhman Ahmed
+Haneen Hani
 
 ---
 
-📋 الأدوار والمسؤوليات (Roles & Responsibilities)
+Work Plan
 
-1- محمد أشرف (Team Leader)
-أساسي: الهوية البصرية الكاملة (لوجو، بيزنس كارد، مظروف، ليترهيد، نوت بوك، compliment slip).
-ثانوي: تجميع وعمل الـ Mockups النهائية.
+1. Research & Identity Foundation
+Defining the "Kemet Journeys" concept and the "Beyond the Pyramids" idea.
+Logo Design.
+Building the Brand Guideline to define colors, fonts, and design style.
 
-2- ناردين هاني
-أساسي: تصميم بوستات السوشيال ميديا لكل الأماكن (Social Media Posters).
+2. Brand Collateral
+Business Card Design.
+Envelope & Letterhead Design.
+Notebook & Compliment Slip Design.
 
-3. عبدالرحمن أحمد
-أساسي: تصميم المطبوعات (بروشور وفلاير).
+3. Marketing & Promotional Materials
+Designing informational print materials (Brochure & Flyer).
+Designing Social Media Posters for specific locations.
 
-4- حنين هاني
-أساسي: عمل الـ Brand Guideline (دليل الهوية).
-ثانوي: تجهيز وعمل الـ Presentation النهائية.
+4. Final Presentation & Mockups
+Compiling all designs and presenting them in realistic Mockups.
+Preparing the Final Presentation to explain the project.
 
 ---
 
-🔗 لينك العرض التقديمي (Project Presentation)
-[اضغط هنا لمشاهدة العرض التقديمي (Link to Presentation)] (حط لينك البرزنتيشن بتاعك هنا)
+Roles & Responsibilities
+
+1- Mohamed Ashraf (Team Leader)
+Primary: Full Visual Identity (Logo, Business Card, Envelope, Letterhead, Notebook, Compliment Slip).
+Secondary: Compiling and creating the final Mockups.
+
+2- Nardeen Hani
+Primary: Designing Social Media Posters for all locations.
+
+3- Abdelrhman Ahmed
+Primary: Designing print materials (Brochure & Flyer).
+
+4- Haneen Hani
+Primary: Creating the Brand Guideline.
+Secondary: Preparing and creating the Final Presentation.
 
 ---
 
-👨‍🏫 المشرف (Instructor)
+Project Presentation Link
+[Click here to view the Presentation] (Put your presentation link here)
+
+---
+
+Instructor
 Eng. Ehab Ebid
