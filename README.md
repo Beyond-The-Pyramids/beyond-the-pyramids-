@@ -42,11 +42,11 @@ Preparing the Final Presentation to explain the project.
 
 Roles & Responsibilities
 
-1- Mohamed Ashraf (Team Leader)
+1- Mohamed Ashraf 
 Primary: Full Visual Identity (Logo, Business Card, Envelope, Letterhead, Notebook, Compliment Slip).
 Secondary: Compiling and creating the final Mockups.
 
-2- Nardeen Hani
+2- Nardeen Hani (Team Leader)
 Primary: Designing Social Media Posters for all locations.
 
 3- Abdelrhman Ahmed
