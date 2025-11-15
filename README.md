@@ -59,7 +59,7 @@ Secondary: Preparing and creating the Final Presentation.
 ---
 
 Project Link
-[Click here to view the Presentation] [(Put your presentation link here)](https://drive.google.com/drive/folders/1HANIPP5IYC9BhSEYAblRKtURi5cYMdyH)
+[Click here to view the Presentation](https://drive.google.com/drive/folders/1HANIPP5IYC9BhSEYAblRKtURi5cYMdyH)
 
 ---
 
